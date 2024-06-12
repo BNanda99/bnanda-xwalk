@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/bnanda-xwalk:/",
+    "/content/bnanda-xwalk/:/",
     "/content/bnanda-xwalk/configuration:/.helix/config.json"
   ]
 }
