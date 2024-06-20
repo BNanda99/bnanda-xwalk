@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p121603-e1341757.adobeaemcloud.com/bin/franklin.delivery/bnanda99/bnanda-xwalk/main"
+    url: "https://author-p124055-e1223952.adobeaemcloud.com/bin/franklin.delivery/bnanda99/bnanda-xwalk/main"
     type: "markup"
     suffix: ".html"
